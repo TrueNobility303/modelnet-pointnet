@@ -11,7 +11,7 @@
 
 
 ## 文件说明
-/dump /backup 为输出内容
-model.py 网络定义
-utils.py 定义可视化点云等函数
-main.py point.py pointplus.py 实现点云分类主函数，使用了不同的网络结构 
+* /dump /backup 为输出内容
+* model.py 网络定义
+* utils.py 定义可视化点云等函数
+* main.py point.py pointplus.py 使用了不同的网络结构，实现点云分类主函数，
