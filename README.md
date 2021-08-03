@@ -1,4 +1,23 @@
-# modelnet 3D物体分类
+# 3D Object Classification on ModelNet 
+
+## Abstract 
+
+On the ModelNet dataset, some 3D object classification models based on point clouds is implemented
+
+* PointNet
+* PointNet++
+* PPF
+Within 10 minutes of training, an accuracy rate of more than 70% can be achieved.
+
+NOTE: What I did not implement are PointTransformers, but I strongly recommend you to try PointTransformers if you are also instrested in this tast.
+
+## Files
+* /dump /backup: directory for outputs 
+* model.py: networks
+* utils.py: some useful functions
+* main.py point.py pointplus.py : implement PointNet,PointNet++ and PPF
+* Report-Points.pdf: report of this project
+ 
 
 ## 摘要
 
